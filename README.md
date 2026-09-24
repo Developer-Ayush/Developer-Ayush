@@ -46,7 +46,6 @@
   <a href="https://www.linkedin.com/in/ayush---anand/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-black?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://x.com/Ayush__Anand" target="_blank"><img src="https://img.shields.io/badge/-twitter-black?style=flat-square&logo=twitter" alt="Twitter / X" /></a>
   <a href="https://orcid.org/0009-0002-3388-9830" target="_blank"><img src="https://img.shields.io/badge/-orcid-black?style=flat-square&logo=orcid" alt="ORCID" /></a>
-  <a href="tel:+917501191221"><img src="https://img.shields.io/badge/-phone-black?style=flat-square&logo=whatsapp" alt="Phone" /></a>
   <a href="mailto:developerayushanand@gmail.com"><img src="https://img.shields.io/badge/-gmail-black?style=flat-square&logo=gmail" alt="Email" /></a>
   <a href="https://developer-ayush.github.io" target="_blank"><img src="https://img.shields.io/badge/-website-black?style=flat-square&logo=githubpages" alt="Website" /></a>
 </p>
