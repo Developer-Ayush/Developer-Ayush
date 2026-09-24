@@ -12,14 +12,7 @@
 
 ### 🧭 About Me
 
-- 🔭 Building things from first principles — cryptographic hash functions, operating systems, and graph-based AI
-- 🔐 Author of **RHA**, an original cryptographic hashing algorithm family (C/C++ core, multi-language bindings)
-- 🧠 Designing **Paragi**, a graph-based AI reasoning engine where semantics live on edges, not nodes
-- 📖 Writing a ~600-page technical book on cryptographic hashing (MD5 through SHA-3, and RHA)
-- 🧩 No institutional affiliation — self-directed, publishing independently to PyPI, npm, Zenodo, and IACR ePrint
-- 💬 Ask me about permutation design, avalanche properties, SIMD optimization, or knowledge-graph reasoning
-
----
+I am Ayush Anand, a young developer, researcher, and author from India. I am interested in cryptography, cybersecurity, and computer science, and I enjoy building original projects and exploring new ideas.
 
 ### 📊 GitHub Stats
 
@@ -95,14 +88,6 @@
 
 <p align="center"><img src="https://img.shields.io/badge/🚧_IN_PROGRESS-yellow?style=for-the-badge" /></p>
 
-- **RHA Library**
-  Multi-language cryptographic hashing library built around the Tandaveshvara permutation
-- **The Architecture of Cryptographic Hashes**
-  ~600-page technical book, MD5 through SHA-3 and RHA — targeting Oct 2026
-- **Paragi**
-  Graph-based AI reasoning engine with edge-based semantics
-- **Society Management App**
-  Next.js + Firebase app with Android via Capacitor
 - **[dCAPTCHA](https://github.com/Developer-Ayush/dCAPTCHA)**
   CAPTCHA project
 
@@ -123,8 +108,6 @@
 
 <p align="center"><img src="https://img.shields.io/badge/⏸️_PAUSED-red?style=for-the-badge" /></p>
 
-- **AGIX**
-  Earlier knowledge-graph prototype, superseded by Paragi
 - **[build-everything](https://github.com/Developer-Ayush/build-everything)**
   25 fundamental computer systems from scratch, in dependency order
 
