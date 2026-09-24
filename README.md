@@ -37,8 +37,6 @@
   <img src="https://raw.githubusercontent.com/Developer-Ayush/Developer-Ayush/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution snake" />
 </p>
 
-> Replace `Developer-Ayush` above with your primary GitHub handle if you want stats aggregated under a different account.
-
 ---
 
 ### 🔗 Connect with Me
@@ -69,9 +67,6 @@
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" />
   </a>
 </p>
-
-> Website badge assumes `https://developer-ayush.github.io` — swap in your actual GitHub Pages URL if it differs.
-
 ---
 
 <p align="center">
