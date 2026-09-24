@@ -41,14 +41,14 @@
 
 ### 🔗 Connect with Me
 
-<p align="center">
-  <a href="https://www.instagram.com/ayush_anand0710/" target="_blank"><img src="https://img.shields.io/badge/-instagram-black?style=flat-square&logo=instagram" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/in/ayush---anand/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-black?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://x.com/Ayush__Anand" target="_blank"><img src="https://img.shields.io/badge/-twitter-black?style=flat-square&logo=twitter" alt="Twitter / X" /></a>
-  <a href="https://orcid.org/0009-0002-3388-9830" target="_blank"><img src="https://img.shields.io/badge/-orcid-black?style=flat-square&logo=orcid" alt="ORCID" /></a>
-  <a href="mailto:developerayushanand@gmail.com"><img src="https://img.shields.io/badge/-gmail-black?style=flat-square&logo=gmail" alt="Email" /></a>
-  <a href="https://developer-ayush.github.io" target="_blank"><img src="https://img.shields.io/badge/-website-black?style=flat-square&logo=githubpages" alt="Website" /></a>
-</p>
+[![website](https://img.shields.io/badge/developer--ayush.github.io-12151a?style=flat-square&logo=googlechrome&logoColor=e4e4e7)](https://developer-ayush.github.io)
+[![instagram](https://img.shields.io/badge/instagram-12151a?style=flat-square&logo=instagram&logoColor=e4e4e7)](https://www.instagram.com/ayush_anand0710/)
+[![linkedin](https://img.shields.io/badge/linkedin-12151a?style=flat-square&logo=linkedin&logoColor=e4e4e7)](https://www.linkedin.com/in/ayush---anand/)
+[![twitter](https://img.shields.io/badge/twitter-12151a?style=flat-square&logo=twitter&logoColor=e4e4e7)](https://x.com/Ayush__Anand)
+[![orcid](https://img.shields.io/badge/orcid-12151a?style=flat-square&logo=orcid&logoColor=e4e4e7)](https://orcid.org/0009-0002-3388-9830)
+[![phone](https://img.shields.io/badge/phone-12151a?style=flat-square&logo=whatsapp&logoColor=e4e4e7)](tel:+917501191221)
+[![email](https://img.shields.io/badge/email-12151a?style=flat-square&logo=gmail&logoColor=e4e4e7)](mailto:developerayushanand@gmail.com)
+
 ### 🗂️ Projects
 
 <table width="100%">
