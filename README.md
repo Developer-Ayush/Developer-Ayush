@@ -40,16 +40,16 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://instagram.com/YOUR_HANDLE" target="_blank">
+  <a href="https://www.instagram.com/ayush_anand0710/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_HANDLE" target="_blank">
+  <a href="https://www.linkedin.com/in/ayush---anand/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_HANDLE" target="_blank">
+  <a href="https://x.com/Ayush__Anand" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter / X" />
   </a>
-  <a href="https://orcid.org/YOUR_ORCID_ID" target="_blank">
+  <a href="https://orcid.org/0009-0002-3388-9830" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
 </p>
