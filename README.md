@@ -21,8 +21,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Developer-Ayush&show_icons=true&theme=radical" alt="Ayush's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Ayush&layout=compact&theme=radical" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Developer-Ayush&show_icons=true&theme=radical" alt="Ayush's GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Developer-Ayush&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Developer-Ayush&theme=redical" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Developer-Ayush&theme=radical" alt="Contribution graph" />
 </p>
 
 > Replace `Developer-Ayush` above with your primary GitHub handle if you want stats aggregated under a different account.
