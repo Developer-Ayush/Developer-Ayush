@@ -54,8 +54,6 @@
   </a>
 </p>
 
-> Swap `YOUR_HANDLE` / `YOUR_ORCID_ID` in each link with your actual usernames/IDs.
-
 ---
 
 ### 🗂️ Projects
@@ -63,8 +61,12 @@
 <table>
 <tr><th colspan="2">✅ Completed</th></tr>
 <tr>
-  <td><b>RUDRA-512 / RHA-512</b></td>
+  <td><b><a href="https://github.com/Developer-Ayush/rudra512" target="_blank">RUDRA-512 / RHA-512</a></b></td>
   <td>Original cryptographic hash design published to Zenodo (DOI: 10.5281/zenodo.21038329)</td>
+</tr>
+<tr>
+  <td><b><a href="https://github.com/Developer-Ayush/Jarvis-AI" target="_blank">Jarvis-AI</a></b></td>
+  <td>AI assistant project</td>
 </tr>
 </table>
 
@@ -83,20 +85,12 @@
   <td>Graph-based AI reasoning engine with edge-based semantics and continuous learning</td>
 </tr>
 <tr>
-  <td><b>AyuxOS</b></td>
-  <td>Operating system project exploring kernel development, built with a collaborator</td>
-</tr>
-<tr>
-  <td><b>build-everything</b></td>
-  <td>Building 25 fundamental computer systems from scratch, in dependency order</td>
-</tr>
-<tr>
   <td><b>Society Management App</b></td>
   <td>Next.js + Firebase web app for society/maintenance management, with Android via Capacitor</td>
 </tr>
 <tr>
-  <td><b>YN (Your Network)</b></td>
-  <td>An application-level network on top of the Internet — own namespace, registry, node software, and browser</td>
+  <td><b><a href="https://github.com/Developer-Ayush/dCAPTCHA" target="_blank">dCAPTCHA</a></b></td>
+  <td>CAPTCHA project</td>
 </tr>
 </table>
 
@@ -106,12 +100,21 @@
   <td><b>AGIX</b></td>
   <td>Earlier knowledge-graph prototype, superseded by Paragi</td>
 </tr>
+<tr>
+  <td><b><a href="https://github.com/Developer-Ayush/build-everything" target="_blank">build-everything</a></b></td>
+  <td>Building 25 fundamental computer systems from scratch, in dependency order</td>
+</tr>
 </table>
 
 <table>
 <tr><th colspan="2">🔮 Future</th></tr>
 <tr>
-  <td colspan="2"><i>Add upcoming projects here</i></td>
+  <td><b>YN</b></td>
+  <td>A full new architecture of the internet</td>
+</tr>
+<tr>
+  <td><b>AyuxOS</b></td>
+  <td>New, super safe operating system</td>
 </tr>
 </table>
 
