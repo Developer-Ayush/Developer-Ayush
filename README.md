@@ -21,7 +21,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Developer-Ayush&show_icons=true&theme=radical&count_private=true" alt="Ayush's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Developer-Ayush&show_icons=true&theme=radical" alt="Ayush's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Ayush&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
