@@ -41,6 +41,8 @@
 
 ### 🔗 Connect with Me
 
+<div align="center">
+
 [![website](https://img.shields.io/badge/developer--ayush.github.io-12151a?style=flat-square&logo=googlechrome&logoColor=e4e4e7)](https://developer-ayush.github.io)
 [![instagram](https://img.shields.io/badge/instagram-12151a?style=flat-square&logo=instagram&logoColor=e4e4e7)](https://www.instagram.com/ayush_anand0710/)
 [![linkedin](https://img.shields.io/badge/linkedin-12151a?style=flat-square&logo=linkedin&logoColor=e4e4e7)](https://www.linkedin.com/in/ayush---anand/)
@@ -48,6 +50,8 @@
 [![orcid](https://img.shields.io/badge/orcid-12151a?style=flat-square&logo=orcid&logoColor=e4e4e7)](https://orcid.org/0009-0002-3388-9830)
 [![phone](https://img.shields.io/badge/phone-12151a?style=flat-square&logo=whatsapp&logoColor=e4e4e7)](tel:+917501191221)
 [![email](https://img.shields.io/badge/email-12151a?style=flat-square&logo=gmail&logoColor=e4e4e7)](mailto:developerayushanand@gmail.com)
+
+</div>
 
 ### 🗂️ Projects
 
@@ -67,14 +71,6 @@
 
 <p align="center"><img src="https://img.shields.io/badge/🚧_IN_PROGRESS-yellow?style=for-the-badge" /></p>
 
-- **RHA Library**
-  Multi-language cryptographic hashing library built around the Tandaveshvara permutation
-- **The Architecture of Cryptographic Hashes**
-  ~600-page technical book, MD5 through SHA-3 and RHA — targeting Oct 2026
-- **Paragi**
-  Graph-based AI reasoning engine with edge-based semantics
-- **Society Management App**
-  Next.js + Firebase app with Android via Capacitor
 - **[dCAPTCHA](https://github.com/Developer-Ayush/dCAPTCHA)**
   CAPTCHA project
 
@@ -95,8 +91,6 @@
 
 <p align="center"><img src="https://img.shields.io/badge/⏸️_PAUSED-red?style=for-the-badge" /></p>
 
-- **AGIX**
-  Earlier knowledge-graph prototype, superseded by Paragi
 - **[build-everything](https://github.com/Developer-Ayush/build-everything)**
   25 fundamental computer systems from scratch, in dependency order
 
