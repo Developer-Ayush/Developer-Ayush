@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ayush</h1>
-<p align="center">Independent researcher &amp; developer — cryptography, systems programming, and AI architecture</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayush;Independent+Researcher+%26+Developer;Cryptography+%C2%B7+Systems+%C2%B7+AI" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Developer-Ayush&style=flat-square&color=blueviolet" alt="Profile views" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" />
+</p>
 
 ### 🧭 About Me
 
@@ -54,70 +57,85 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="tel:+917501191221">
+    <img src="https://img.shields.io/badge/Phone-+91%207501191221-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
+  <a href="mailto:developerayushanand@gmail.com">
+    <img src="https://img.shields.io/badge/Email-developerayushanand%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://developer-ayush.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" />
+  </a>
+</p>
+
+> Website badge assumes `https://developer-ayush.github.io` — swap in your actual GitHub Pages URL if it differs.
+
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
+</p>
 
 ### 🗂️ Projects
 
-<table>
-<tr><th colspan="2">✅ Completed</th></tr>
+<table width="100%">
 <tr>
-  <td><b><a href="https://github.com/Developer-Ayush/rudra512" target="_blank">RUDRA-512 / RHA-512</a></b></td>
-  <td>Original cryptographic hash design published to Zenodo (DOI: 10.5281/zenodo.21038329)</td>
+<td width="50%" valign="top">
+
+<p align="center"><img src="https://img.shields.io/badge/✅_COMPLETED-brightgreen?style=for-the-badge" /></p>
+
+- **[RUDRA-512 / RHA-512](https://github.com/Developer-Ayush/rudra512)**
+  Original cryptographic hash design published to Zenodo (DOI: 10.5281/zenodo.21038329)
+- **[Jarvis-AI](https://github.com/Developer-Ayush/Jarvis-AI)**
+  AI assistant project
+
+</td>
+<td width="50%" valign="top">
+
+<p align="center"><img src="https://img.shields.io/badge/🚧_IN_PROGRESS-yellow?style=for-the-badge" /></p>
+
+- **RHA Library**
+  Multi-language cryptographic hashing library built around the Tandaveshvara permutation
+- **The Architecture of Cryptographic Hashes**
+  ~600-page technical book, MD5 through SHA-3 and RHA — targeting Oct 2026
+- **Paragi**
+  Graph-based AI reasoning engine with edge-based semantics
+- **Society Management App**
+  Next.js + Firebase app with Android via Capacitor
+- **[dCAPTCHA](https://github.com/Developer-Ayush/dCAPTCHA)**
+  CAPTCHA project
+
+</td>
 </tr>
 <tr>
-  <td><b><a href="https://github.com/Developer-Ayush/Jarvis-AI" target="_blank">Jarvis-AI</a></b></td>
-  <td>AI assistant project</td>
+<td width="50%" valign="top">
+
+<p align="center"><img src="https://img.shields.io/badge/🔮_FUTURE-blue?style=for-the-badge" /></p>
+
+- **YN**
+  A full new architecture of the internet
+- **AyuxOS**
+  New, super safe operating system
+
+</td>
+<td width="50%" valign="top">
+
+<p align="center"><img src="https://img.shields.io/badge/⏸️_PAUSED-red?style=for-the-badge" /></p>
+
+- **AGIX**
+  Earlier knowledge-graph prototype, superseded by Paragi
+- **[build-everything](https://github.com/Developer-Ayush/build-everything)**
+  25 fundamental computer systems from scratch, in dependency order
+
+</td>
 </tr>
 </table>
 
-<table>
-<tr><th colspan="2">🚧 In Progress</th></tr>
-<tr>
-  <td><b>RHA Library</b></td>
-  <td>Multi-language cryptographic hashing library (C/C++ core, Python &amp; Go bindings) built around the Tandaveshvara permutation</td>
-</tr>
-<tr>
-  <td><b>The Architecture of Cryptographic Hashes</b></td>
-  <td>~600-page technical book covering MD5 through SHA-3 and the RHA family — targeting Oct 2026</td>
-</tr>
-<tr>
-  <td><b>Paragi</b></td>
-  <td>Graph-based AI reasoning engine with edge-based semantics and continuous learning</td>
-</tr>
-<tr>
-  <td><b>Society Management App</b></td>
-  <td>Next.js + Firebase web app for society/maintenance management, with Android via Capacitor</td>
-</tr>
-<tr>
-  <td><b><a href="https://github.com/Developer-Ayush/dCAPTCHA" target="_blank">dCAPTCHA</a></b></td>
-  <td>CAPTCHA project</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
+</p>
 
-<table>
-<tr><th colspan="2">⏸️ Stopped / Paused</th></tr>
-<tr>
-  <td><b>AGIX</b></td>
-  <td>Earlier knowledge-graph prototype, superseded by Paragi</td>
-</tr>
-<tr>
-  <td><b><a href="https://github.com/Developer-Ayush/build-everything" target="_blank">build-everything</a></b></td>
-  <td>Building 25 fundamental computer systems from scratch, in dependency order</td>
-</tr>
-</table>
-
-<table>
-<tr><th colspan="2">🔮 Future</th></tr>
-<tr>
-  <td><b>YN</b></td>
-  <td>A full new architecture of the internet</td>
-</tr>
-<tr>
-  <td><b>AyuxOS</b></td>
-  <td>New, super safe operating system</td>
-</tr>
-</table>
-
----
-
-<p align="center"><i>This README is a template — update project statuses, links, and social handles as things change.</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</p>
