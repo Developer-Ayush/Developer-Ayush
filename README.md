@@ -42,36 +42,14 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.instagram.com/ayush_anand0710/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/ayush---anand/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Ayush__Anand" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter / X" />
-  </a>
-  <a href="https://orcid.org/0009-0002-3388-9830" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
-  </a>
+  <a href="https://www.instagram.com/ayush_anand0710/" target="_blank"><img src="https://img.shields.io/badge/-instagram-black?style=flat-square&logo=instagram" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/ayush---anand/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-black?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://x.com/Ayush__Anand" target="_blank"><img src="https://img.shields.io/badge/-twitter-black?style=flat-square&logo=twitter" alt="Twitter / X" /></a>
+  <a href="https://orcid.org/0009-0002-3388-9830" target="_blank"><img src="https://img.shields.io/badge/-orcid-black?style=flat-square&logo=orcid" alt="ORCID" /></a>
+  <a href="tel:+917501191221"><img src="https://img.shields.io/badge/-phone-black?style=flat-square&logo=whatsapp" alt="Phone" /></a>
+  <a href="mailto:developerayushanand@gmail.com"><img src="https://img.shields.io/badge/-gmail-black?style=flat-square&logo=gmail" alt="Email" /></a>
+  <a href="https://developer-ayush.github.io" target="_blank"><img src="https://img.shields.io/badge/-website-black?style=flat-square&logo=githubpages" alt="Website" /></a>
 </p>
-
-<p align="center">
-  <a href="tel:+917501191221">
-    <img src="https://img.shields.io/badge/Phone-+91%207501191221-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-  </a>
-  <a href="mailto:developerayushanand@gmail.com">
-    <img src="https://img.shields.io/badge/Email-developerayushanand%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://developer-ayush.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
-</p>
-
 ### 🗂️ Projects
 
 <table width="100%">
