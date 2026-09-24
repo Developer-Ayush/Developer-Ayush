@@ -48,7 +48,6 @@
 [![linkedin](https://img.shields.io/badge/linkedin-12151a?style=flat-square&logo=linkedin&logoColor=e4e4e7)](https://www.linkedin.com/in/ayush---anand/)
 [![twitter](https://img.shields.io/badge/twitter-12151a?style=flat-square&logo=twitter&logoColor=e4e4e7)](https://x.com/Ayush__Anand)
 [![orcid](https://img.shields.io/badge/orcid-12151a?style=flat-square&logo=orcid&logoColor=e4e4e7)](https://orcid.org/0009-0002-3388-9830)
-[![phone](https://img.shields.io/badge/phone-12151a?style=flat-square&logo=whatsapp&logoColor=e4e4e7)](tel:+917501191221)
 [![email](https://img.shields.io/badge/email-12151a?style=flat-square&logo=gmail&logoColor=e4e4e7)](mailto:developerayushanand@gmail.com)
 
 </div>
