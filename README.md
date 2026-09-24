@@ -12,12 +12,7 @@
 
 ### 🧭 About Me
 
-- 🔭 Building things from first principles — cryptographic hash functions, operating systems, and graph-based AI
-- 🔐 Author of **RHA**, an original cryptographic hashing algorithm family (C/C++ core, multi-language bindings)
-- 🧠 Designing **Paragi**, a graph-based AI reasoning engine where semantics live on edges, not nodes
-- 📖 Writing a ~600-page technical book on cryptographic hashing (MD5 through SHA-3, and RHA)
-- 🧩 No institutional affiliation — self-directed, publishing independently to PyPI, npm, Zenodo, and IACR ePrint
-- 💬 Ask me about permutation design, avalanche properties, SIMD optimization, or knowledge-graph reasoning
+I am Ayush Anand, a young developer, researcher, and author from India. I am interested in cryptography, cybersecurity, and computer science, and I enjoy building original projects and exploring new ideas.
 
 ---
 
